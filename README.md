@@ -1,8 +1,8 @@
-                                          [Live Site](https://mrnavneetchauhan.github.io/Zara_Clone/)
+                                          
                                           
                                           **Introduction to Zara-Clone**
   Zara is a ecommerce website, with a simple and advanced UI with a lot of advanced functionality..
-
+[Live Site](https://mrnavneetchauhan.github.io/Zara_Clone/)
 
                                             **Features of the Project**
 
